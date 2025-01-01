@@ -11,4 +11,4 @@ This program simulates a simple banking system with the ability to manage accoun
 ## How to Run
 Run the program in a Python environment:
 ```bash
-python3 account.py
+python3 Bank_Account_Management_System.py
