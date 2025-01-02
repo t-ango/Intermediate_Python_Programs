@@ -22,7 +22,7 @@ This repository contains a Python implementation of a basic GUI calculator built
 1. Clone the repository or download the `simple_calculator.py` file.
 2. Run the program:
    ```bash
-   python3 simple_calculator.py
+   python3 lambda_calc_ferdig.py
 The calculator GUI will appear. Use the buttons to perform calculations.
 
 ##Example Usage
